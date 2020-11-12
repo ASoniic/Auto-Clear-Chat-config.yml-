@@ -1,5 +1,6 @@
 # Auto-Clear-Chat-config.yml-
-auto clear chat plugin configuration. 
+auto clear chat configuration (config.yml). 
+
 
 ---
 #========================================Clear Chat Automatically===============================
@@ -22,5 +23,5 @@ Auto-Clean: true
 #the timer for clear chat if you set Auto-Clean to true.
 #each 1 second = 20 tick (default is 120 second = 2400)
 Timer: 2400
-...
+....
 
